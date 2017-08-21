@@ -6,11 +6,11 @@ exports.senderName = "Sender Name";
 
 // set 'exports.listId = null' to add contact to all contacts, but no specific list
 // or a string with the listId to add to a specific list
-exports.listId = 1480985;
+exports.listId = "1480985";
 
 // set 'exports.templateId = null' to opt out of using a template
 // or a string with the templateId to use a template
-exports.templateId = null;
+exports.templateId = "e025c874-646b-4aa3-8369-e86c581b12bb";
 
 // receive an email when a new signup is confirmed
 exports.sendNotification = true;
